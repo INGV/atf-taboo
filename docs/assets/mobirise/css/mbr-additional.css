@@ -536,8 +536,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -704,7 +704,7 @@ section.lazy-placeholder:after {
 }
 .cid-usd8F8dcUw .mbr-text,
 .cid-usd8F8dcUw .mbr-section-btn {
-  color: #232323;
+  color: #767676;
 }
 .cid-usd8F8dcUw H3 {
   color: #313c92;

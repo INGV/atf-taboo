@@ -709,6 +709,44 @@ section.lazy-placeholder:after {
 .cid-usd8F8dcUw H3 {
   color: #313c92;
 }
+.cid-usdwg0VQUL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-usdwg0VQUL .card {
+  align-self: stretch;
+}
+.cid-usdwg0VQUL .card-box {
+  height: 100%;
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-usdwg0VQUL h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-usdwg0VQUL p {
+  color: #767676;
+  text-align: left;
+}
+.cid-usdwg0VQUL .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-usdwg0VQUL .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-usdwg0VQUL .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #313c92;

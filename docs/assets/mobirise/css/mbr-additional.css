@@ -678,20 +678,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-usdKuPVBTJ {
-  background-image: url("../../../assets/images/tavola-disegno-1-2000x1092.png");
-}
-.cid-usdKuPVBTJ .mbr-section-subtitle {
-  letter-spacing: .2rem;
-}
-.cid-usdKuPVBTJ .media-container-column {
-  background-color: #333e8d;
-}
-@media (max-width: 767px) {
-  .cid-usdKuPVBTJ .media-container-column {
-    padding: 1rem !important;
-  }
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #313c92;
@@ -1080,6 +1066,20 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-usdKuPVBTJ {
+  background-image: url("../../../assets/images/tavola-disegno-1-2000x1092.png");
+}
+.cid-usdKuPVBTJ .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-usdKuPVBTJ .media-container-column {
+  background-color: #333e8d;
+}
+@media (max-width: 767px) {
+  .cid-usdKuPVBTJ .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-usdwg0VQUL {
   padding-top: 90px;
